@@ -1,0 +1,11 @@
+const String TOKEN = "TOKEN";
+const String EMPLOYEE_ID = "EMPLOYEE_ID";
+const String GENDER = "GENDER";
+const String EMAIL = "EMAIL";
+const String PASSWORD = "PASSWORD";
+const String EMAIL_FOR_RESET = "EMAIL_FOR_RESET";
+const String PASSWORD_FOR_RESET = "PASSWORD_FOR_RESET";
+const String CHECKIN_DATETIME = "CHECKIN_DATETIME";
+const String CHECKOUT_DATETIME = "CHECKOUT_DATETIME";
+const String ATTENDANCE_ID = "ATTENDANCE_ID";
+
